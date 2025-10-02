@@ -38,6 +38,7 @@
     "header": {
       "type": "header",
       "settings": {
+        "logo_src": "shopify://shop_images/Aasalati_logo-removebg-preview.png",
         "logo_height": 45,
         "main_linklist": "main-menu",
         "show_search": true,
