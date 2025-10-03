@@ -15,7 +15,7 @@
         "1653646142fd3f3126-0": {
           "type": "image",
           "settings": {
-            "caption": "The best Organic honey",
+            "caption": "عِش التجربة… اجعل عَسَلَتي جزءًا من قصّتك",
             "title": "",
             "link": "",
             "open_in_new_window": false,
@@ -278,66 +278,6 @@
         "seo_h_tag": "h2"
       }
     },
-    "16551074833cdf378e": {
-      "type": "media-with-text-overlay",
-      "blocks": {
-        "16551074836af554cd-0": {
-          "type": "image",
-          "settings": {
-            "caption": "Introducing",
-            "title": "Your best promotion yet",
-            "subtitle": "Write about it",
-            "link": "",
-            "open_in_new_window": false,
-            "button_label": "",
-            "color_background_main": "rgba(0,0,0,0)",
-            "color_text_main": "rgba(0,0,0,0)",
-            "color_hide_borders": true,
-            "color_hide_shadow": false,
-            "seo_h_tag": "h3"
-          }
-        },
-        "16551074836af554cd-1": {
-          "type": "image",
-          "settings": {
-            "caption": "Introducing",
-            "title": "Your best promotion yet",
-            "subtitle": "Write about it",
-            "link": "",
-            "open_in_new_window": false,
-            "button_label": "",
-            "color_background_main": "rgba(0,0,0,0)",
-            "color_text_main": "rgba(0,0,0,0)",
-            "color_hide_borders": true,
-            "color_hide_shadow": false,
-            "seo_h_tag": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "16551074836af554cd-0",
-        "16551074836af554cd-1"
-      ],
-      "settings": {
-        "heading": "",
-        "subheading": "",
-        "section_heading_layout": "section-heading--left",
-        "layout": "grid-2 grid-lap-1",
-        "height": "regular",
-        "alignment": "horizontal-left align-content--vertical-bottom",
-        "width": "60%",
-        "caption_size": "small",
-        "title_size": "h3",
-        "subtitle_size": "regular",
-        "button_size": "regular",
-        "button_style": "solid",
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
-        "seo_h_tag": "h2"
-      }
-    },
     "16546982542e923b5a": {
       "type": "featured-product",
       "blocks": {
@@ -396,66 +336,6 @@
         "default_to_first_variant": true
       }
     },
-    "165407625224b5d2af": {
-      "type": "rich-text",
-      "blocks": {
-        "1654076252f525bcb1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Up to 50% discount</strong></p>",
-            "text_size": "regular"
-          }
-        },
-        "1654076252f525bcb1-0": {
-          "type": "title",
-          "settings": {
-            "title": "About our products",
-            "title_size": "h1",
-            "seo_h_tag": "h2"
-          }
-        },
-        "4055a9b7-fa9d-4a7a-b5e0-d052561d6f9c": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Write a big, bold statement about your brand. Catch your visitors attention by using some additional images with your products or store.</p>",
-            "text_size": "regular"
-          }
-        },
-        "1654076252f525bcb1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn more",
-            "link": "",
-            "open_in_new_window": false,
-            "button_size": "large",
-            "button_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "1654076252f525bcb1-1",
-        "1654076252f525bcb1-0",
-        "4055a9b7-fa9d-4a7a-b5e0-d052561d6f9c",
-        "1654076252f525bcb1-2"
-      ],
-      "settings": {
-        "image_position": "right",
-        "height": "large",
-        "image_crop": true,
-        "text_alignment": "horizontal-left",
-        "is_fullwidth": true,
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "remove_margin": false,
-        "color_background_main": "#e7e7e7",
-        "color_text_main": "rgba(0,0,0,0)",
-        "color_accent_main": "rgba(0,0,0,0)",
-        "color_borders_main": "#e1e1e1",
-        "color_shadow_main": "rgba(0,0,0,0)",
-        "color_hide_borders": true,
-        "color_hide_shadow": false
-      }
-    },
     "16553621956de397b6": {
       "type": "testimonials",
       "blocks": {
@@ -507,13 +387,13 @@
         "16570940482780d791-0": {
           "type": "text",
           "settings": {
-            "marquee_text": "Write a big bold statement about your brand!"
+            "marquee_text": "<strong>100% طبيعي نقي</strong> – من الخلية مباشرة إلى مائدتك"
           }
         },
         "17541091-3633-48b6-97e0-ca55f3bf4a9f": {
           "type": "text",
           "settings": {
-            "marquee_text": "Introduce your latest promotions."
+            "marquee_text": "<strong>مذاق أصيل</strong> – يوقظ حواسك ويعيدك إلى زمن النقاء"
           }
         }
       },
@@ -522,8 +402,8 @@
         "17541091-3633-48b6-97e0-ca55f3bf4a9f"
       ],
       "settings": {
-        "scroll_direction": "left",
-        "speed": 150,
+        "scroll_direction": "right",
+        "speed": 110,
         "pause_on_hover": true,
         "remove_top_margin": false,
         "remove_bottom_margin": false,
@@ -555,9 +435,7 @@
     "featured-collection",
     "16541619272fee0e4e",
     "1654161920efe5f084",
-    "16551074833cdf378e",
     "16546982542e923b5a",
-    "165407625224b5d2af",
     "16553621956de397b6",
     "1657094048f07fb2a2",
     "1655112847aaa4cc50"
