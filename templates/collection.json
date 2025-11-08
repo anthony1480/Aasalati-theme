@@ -11,12 +11,49 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
         "alignment": "horizontal-left align-content--vertical-bottom",
         "color_background_main": "rgba(0,0,0,0)",
         "color_text_main": "rgba(0,0,0,0)"
+      }
+    },
+    "collection_list_74GkqR": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_HjnnmD": {
+          "type": "collection",
+          "settings": {
+            "collection": "السنديان-مع-المكسرات"
+          }
+        },
+        "collection_dH7FkT": {
+          "type": "collection",
+          "settings": {
+            "collection": "السدر-الجبلي-مع-المكسرات"
+          }
+        }
+      },
+      "block_order": [
+        "collection_HjnnmD",
+        "collection_dH7FkT"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "heading": "العسل مع المكسرات",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--left",
+        "style": "grid",
+        "layout": "grid-2 grid-lap-1",
+        "image_aspect_ratio": "1",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
       }
     },
     "product-grid": {
@@ -42,6 +79,7 @@
         "title",
         "quick_buy"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
         "products_number": 24,
@@ -121,6 +159,7 @@
   },
   "order": [
     "banner",
+    "collection_list_74GkqR",
     "product-grid",
     "marquee_RayTVi",
     "rich_text_FH3HDq"
