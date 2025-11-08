@@ -108,6 +108,65 @@
         "color_hide_shadow": false
       }
     },
+    "16541619272fee0e4e": {
+      "type": "collection-list",
+      "blocks": {
+        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74": {
+          "type": "collection",
+          "settings": {
+            "collection": "bee-hive-products-منتجات-خلية-النحل"
+          }
+        },
+        "collection_wpCPKh": {
+          "type": "collection",
+          "settings": {
+            "collection": "السنديان-مع-المكسرات"
+          }
+        },
+        "4fd20197-57e5-4687-8996-e9875ddf993f": {
+          "type": "collection",
+          "settings": {
+            "collection": "honey-blends-خلطات-العسل",
+            "image": "shopify://shop_images/4_18f528e8-2e1c-4bba-8ead-9f2efc4133ff.jpg"
+          }
+        },
+        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1": {
+          "type": "collection",
+          "settings": {
+            "collection": "honey-comb-العسل-بشهده",
+            "image": "shopify://shop_images/42cd8fc3fd08f557f40e9f4a776e068a.jpg"
+          }
+        },
+        "ed3e6d73-9210-4605-8cd0-18ae029e2fff": {
+          "type": "collection",
+          "settings": {
+            "collection": "honey-with-nuts-العسل-مع-المكسرات",
+            "image": "shopify://shop_images/8_cb9cdd91-b68d-434f-ba05-0c029c06589a.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74",
+        "collection_wpCPKh",
+        "4fd20197-57e5-4687-8996-e9875ddf993f",
+        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1",
+        "ed3e6d73-9210-4605-8cd0-18ae029e2fff"
+      ],
+      "settings": {
+        "heading": "Collection list",
+        "subheading": "",
+        "show_view_all": true,
+        "section_heading_layout": "section-heading--left",
+        "style": "slider",
+        "layout": "grid-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1",
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "remove_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "blocks": {
@@ -152,58 +211,6 @@
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": true,
-        "seo_h_tag": "h2"
-      }
-    },
-    "16541619272fee0e4e": {
-      "type": "collection-list",
-      "blocks": {
-        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74": {
-          "type": "collection",
-          "settings": {
-            "collection": "bee-hive-products-منتجات-خلية-النحل"
-          }
-        },
-        "4fd20197-57e5-4687-8996-e9875ddf993f": {
-          "type": "collection",
-          "settings": {
-            "collection": "honey-blends-خلطات-العسل",
-            "image": "shopify://shop_images/4_18f528e8-2e1c-4bba-8ead-9f2efc4133ff.jpg"
-          }
-        },
-        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1": {
-          "type": "collection",
-          "settings": {
-            "collection": "honey-comb-العسل-بشهده",
-            "image": "shopify://shop_images/42cd8fc3fd08f557f40e9f4a776e068a.jpg"
-          }
-        },
-        "ed3e6d73-9210-4605-8cd0-18ae029e2fff": {
-          "type": "collection",
-          "settings": {
-            "collection": "honey-with-nuts-العسل-مع-المكسرات",
-            "image": "shopify://shop_images/8_cb9cdd91-b68d-434f-ba05-0c029c06589a.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74",
-        "4fd20197-57e5-4687-8996-e9875ddf993f",
-        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1",
-        "ed3e6d73-9210-4605-8cd0-18ae029e2fff"
-      ],
-      "settings": {
-        "heading": "Collection list",
-        "subheading": "",
-        "show_view_all": true,
-        "section_heading_layout": "section-heading--left",
-        "style": "slider",
-        "layout": "grid-4 grid-lap-3 grid-palm-2",
-        "image_aspect_ratio": "1",
-        "section_background_color": "rgba(0,0,0,0)",
-        "section_background_gradient": "",
-        "section_heading_color": "rgba(0,0,0,0)",
-        "remove_margin": false,
         "seo_h_tag": "h2"
       }
     },
@@ -437,8 +444,8 @@
   "order": [
     "1653646142d6a7c886",
     "rich_text_NAtLGB",
-    "featured-collection",
     "16541619272fee0e4e",
+    "featured-collection",
     "1654161920efe5f084",
     "16546982542e923b5a",
     "16553621956de397b6",
