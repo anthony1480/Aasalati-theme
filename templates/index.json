@@ -114,7 +114,7 @@
         "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74": {
           "type": "collection",
           "settings": {
-            "collection": "bee-hive-products-منتجات-خلية-النحل"
+            "collection": "types-of-honey-أنواع-العسل"
           }
         },
         "collection_wpCPKh": {
@@ -140,7 +140,7 @@
         "ed3e6d73-9210-4605-8cd0-18ae029e2fff": {
           "type": "collection",
           "settings": {
-            "collection": "honey-with-nuts-العسل-مع-المكسرات",
+            "collection": "bee-hive-products-منتجات-خلية-النحل",
             "image": "shopify://shop_images/8_cb9cdd91-b68d-434f-ba05-0c029c06589a.jpg"
           }
         }
