@@ -29,23 +29,23 @@
             "collection": "السنديان-مع-المكسرات"
           }
         },
-        "collection_RzkdEd": {
-          "type": "collection",
-          "settings": {
-            "collection": "علبة-من-نوعين"
-          }
-        },
         "collection_dH7FkT": {
           "type": "collection",
           "settings": {
             "collection": "السدر-الجبلي-مع-المكسرات"
           }
+        },
+        "collection_RzkdEd": {
+          "type": "collection",
+          "settings": {
+            "collection": "علبة-من-نوعين"
+          }
         }
       },
       "block_order": [
         "collection_HjnnmD",
-        "collection_RzkdEd",
-        "collection_dH7FkT"
+        "collection_dH7FkT",
+        "collection_RzkdEd"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
