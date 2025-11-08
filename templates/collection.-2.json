@@ -39,6 +39,7 @@
         },
         "collection_RzkdEd": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "علبة-من-نوعين"
           }
@@ -164,6 +165,75 @@
         "color_hide_borders": false,
         "color_hide_shadow": false
       }
+    },
+    "featured_product_dMU3wR": {
+      "type": "featured-product",
+      "blocks": {
+        "title_7TJbJm": {
+          "type": "title",
+          "settings": {
+            "seo_h_tag": "h2"
+          }
+        },
+        "price_KVqyUD": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_YEzhxw": {
+          "type": "variant_picker",
+          "settings": {
+            "variants_style": "radio",
+            "show_quantities": "no"
+          }
+        },
+        "space_rnVFRX": {
+          "type": "space",
+          "settings": {}
+        },
+        "buy_buttons_ez94dG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_price": true,
+            "show_quantity_selector": true,
+            "show_preorder": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false,
+            "color_text_buttons": "rgba(0,0,0,0)",
+            "color_accent_buttons": "rgba(0,0,0,0)",
+            "style_buttons": "solid"
+          }
+        },
+        "space_KQNeea": {
+          "type": "space",
+          "settings": {}
+        },
+        "description_PpNPGT": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_7TJbJm",
+        "price_KVqyUD",
+        "variant_picker_YEzhxw",
+        "space_rnVFRX",
+        "buy_buttons_ez94dG",
+        "space_KQNeea",
+        "description_PpNPGT"
+      ],
+      "name": "t:sections.featured-product.name",
+      "settings": {
+        "product": "علبة-من-نوعين",
+        "gallery_ratio": "natural",
+        "gallery_fit": false,
+        "show_border": false,
+        "gallery_card_design": false,
+        "gallery_padding": 0,
+        "gallery_pagination": "dots",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "default_to_first_variant": true
+      }
     }
   },
   "order": [
@@ -171,6 +241,7 @@
     "collection_list_74GkqR",
     "product-grid",
     "marquee_RayTVi",
-    "rich_text_FH3HDq"
+    "rich_text_FH3HDq",
+    "featured_product_dMU3wR"
   ]
 }
