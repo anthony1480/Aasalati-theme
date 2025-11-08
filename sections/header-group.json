@@ -41,7 +41,7 @@
         "logo_src": "shopify://shop_images/Aasalati_logo-removebg-preview.png",
         "logo_height": 60,
         "main_linklist": "main-menu",
-        "show_search": true,
+        "show_search": false,
         "sticky_header": true,
         "select_header_actions_on_mobile": "no",
         "show_header_actions": true,
