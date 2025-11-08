@@ -133,10 +133,67 @@
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false
       }
+    },
+    "content_toggles_pdF8pA": {
+      "type": "content-toggles",
+      "blocks": {
+        "text_axCrPf": {
+          "type": "text",
+          "settings": {
+            "title": "Shipping details",
+            "subtitle": "هل عسل عسالتي طبيعي 100%؟",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>نعم، جميع منتجاتنا طبيعية بالكامل، تُستخلص مباشرة من خلايا النحل في جبال لبنان دون أي إضافات صناعية</p>",
+            "hide_block_if": false
+          }
+        },
+        "text_FyGtLz": {
+          "type": "text",
+          "settings": {
+            "title": "Delivery details",
+            "subtitle": "هل يمكن التوصيل إلى جميع المناطق اللبنانية؟",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>نعم، نوفر <strong>توصيلًا سريعًا وآمنًا إلى كل أنحاء لبنان</strong> خلال أيام قليلة</p>",
+            "hide_block_if": false
+          }
+        },
+        "text_wYiza7": {
+          "type": "text",
+          "settings": {
+            "title": "Returns details",
+            "subtitle": "كيف يمكنني التأكد من جودة العسل؟",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>نلتزم بإجراء فحوصات مخبرية دقيقة لكل دفعة لضمان النقاء والجودة العالية</p>",
+            "hide_block_if": false
+          }
+        }
+      },
+      "block_order": [
+        "text_axCrPf",
+        "text_FyGtLz",
+        "text_wYiza7"
+      ],
+      "name": "t:sections.local-extra-words.sections.content-toggles.name",
+      "settings": {
+        "heading": "Frequently asked question",
+        "subheading": "",
+        "section_heading_layout": "section-heading--left",
+        "open_first": false,
+        "form_enable": false,
+        "form_title": "Contact form",
+        "seo_h_tag": "h2"
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "content_toggles_pdF8pA"
   ]
 }
