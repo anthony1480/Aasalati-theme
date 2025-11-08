@@ -24,6 +24,7 @@
       "blocks": {
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {}
         },
         "title": {
@@ -32,6 +33,7 @@
         },
         "quick_buy": {
           "type": "quick_buy",
+          "disabled": true,
           "settings": {}
         }
       },
