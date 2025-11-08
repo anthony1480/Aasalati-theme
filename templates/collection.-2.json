@@ -29,6 +29,12 @@
             "collection": "السنديان-مع-المكسرات"
           }
         },
+        "collection_RzkdEd": {
+          "type": "collection",
+          "settings": {
+            "collection": "علبة-من-نوعين"
+          }
+        },
         "collection_dH7FkT": {
           "type": "collection",
           "settings": {
@@ -38,6 +44,7 @@
       },
       "block_order": [
         "collection_HjnnmD",
+        "collection_RzkdEd",
         "collection_dH7FkT"
       ],
       "name": "t:sections.collection-list.presets.name",
@@ -47,7 +54,7 @@
         "show_view_all": true,
         "section_heading_layout": "section-heading--left",
         "style": "grid",
-        "layout": "grid-2 grid-lap-1",
+        "layout": "grid-3 grid-palm-2",
         "image_aspect_ratio": "1",
         "section_background_color": "rgba(0,0,0,0)",
         "section_background_gradient": "",
