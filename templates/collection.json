@@ -72,11 +72,55 @@
         "section_background_gradient": "",
         "color_text_main": "rgba(0,0,0,0)"
       }
+    },
+    "rich_text_FH3HDq": {
+      "type": "rich-text",
+      "blocks": {
+        "title_4ddJtw": {
+          "type": "title",
+          "settings": {
+            "title": "لماذا تختار \"عسالتي\"؟",
+            "title_size": "h2",
+            "seo_h_tag": "h2"
+          }
+        },
+        "text_4cfQNY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>100% طبيعي ونقي</strong> – من خلايا نحل حرة في جبال لبنان.</p><p><br/><strong>غني بالفيتامينات والمعادن</strong> التي تعزز مناعة الجسم وتمنحك طاقة طبيعية.<br/></p><p><br/><strong>مذاق لا يُنسى</strong> يمزج بين حلاوة الزهور ورائحة الطبيعة الجبلية.</p>",
+            "text_size": "regular"
+          }
+        }
+      },
+      "block_order": [
+        "title_4ddJtw",
+        "text_4cfQNY"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "image": "shopify://shop_images/7_b7236af6-157a-4da3-86e0-a9da8b6a7e5b.jpg",
+        "image_position": "right",
+        "height": "regular",
+        "image_crop": true,
+        "text_alignment": "horizontal-center",
+        "is_fullwidth": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "remove_margin": false,
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_accent_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_shadow_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false,
+        "color_hide_shadow": false
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "marquee_RayTVi"
+    "marquee_RayTVi",
+    "rich_text_FH3HDq"
   ]
 }
