@@ -121,6 +121,7 @@
         "space_KQNeea",
         "description_PpNPGT"
       ],
+      "disabled": true,
       "name": "t:sections.featured-product.name",
       "settings": {
         "product": "علبة-من-نوعين",
