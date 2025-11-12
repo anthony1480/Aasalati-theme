@@ -124,7 +124,7 @@
       "name": "t:sections.featured-product.name",
       "settings": {
         "product": "علبة-من-نوعين",
-        "gallery_ratio": "natural",
+        "gallery_ratio": "1.33333",
         "gallery_fit": false,
         "show_border": false,
         "gallery_card_design": false,
