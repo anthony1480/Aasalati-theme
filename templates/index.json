@@ -329,6 +329,7 @@
         "16553621951e01132c-0",
         "16553621951e01132c-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Testimonials",
         "subheading": "What our clients say",
@@ -383,6 +384,7 @@
     },
     "1655112847aaa4cc50": {
       "type": "newsletter",
+      "disabled": true,
       "settings": {
         "show_icon": true,
         "title": "Sign up for our newsletter",
@@ -403,9 +405,9 @@
     "16541619272fee0e4e",
     "featured-collection",
     "1654161920efe5f084",
+    "1657094048f07fb2a2",
     "16546982542e923b5a",
     "16553621956de397b6",
-    "1657094048f07fb2a2",
     "1655112847aaa4cc50"
   ]
 }
