@@ -480,6 +480,16 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "stock": {
+        "sold_out_label": "Out of Stock"
+      },
+      "throttle": {
+        "merchandise": {
+          "sold_out": "Out of stock"
+        }
+      }
     }
   }
 }
