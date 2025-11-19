@@ -124,6 +124,37 @@
         "seo_h_tag": "h2"
       }
     },
+    "1657094048f07fb2a2": {
+      "type": "marquee",
+      "blocks": {
+        "16570940482780d791-0": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "<strong>100% طبيعي نقي</strong> – من الخلية مباشرة إلى مائدتك"
+          }
+        },
+        "17541091-3633-48b6-97e0-ca55f3bf4a9f": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "<strong>مذاق أصيل</strong> – يوقظ حواسك ويعيدك إلى زمن النقاء"
+          }
+        }
+      },
+      "block_order": [
+        "16570940482780d791-0",
+        "17541091-3633-48b6-97e0-ca55f3bf4a9f"
+      ],
+      "settings": {
+        "scroll_direction": "right",
+        "speed": 110,
+        "pause_on_hover": true,
+        "remove_top_margin": false,
+        "remove_bottom_margin": false,
+        "color_background_main": "#f4ecf4",
+        "section_background_gradient": "",
+        "color_text_main": "#000000"
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "blocks": {
@@ -245,37 +276,6 @@
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false,
         "seo_h_tag": "h2"
-      }
-    },
-    "1657094048f07fb2a2": {
-      "type": "marquee",
-      "blocks": {
-        "16570940482780d791-0": {
-          "type": "text",
-          "settings": {
-            "marquee_text": "<strong>100% طبيعي نقي</strong> – من الخلية مباشرة إلى مائدتك"
-          }
-        },
-        "17541091-3633-48b6-97e0-ca55f3bf4a9f": {
-          "type": "text",
-          "settings": {
-            "marquee_text": "<strong>مذاق أصيل</strong> – يوقظ حواسك ويعيدك إلى زمن النقاء"
-          }
-        }
-      },
-      "block_order": [
-        "16570940482780d791-0",
-        "17541091-3633-48b6-97e0-ca55f3bf4a9f"
-      ],
-      "settings": {
-        "scroll_direction": "right",
-        "speed": 110,
-        "pause_on_hover": true,
-        "remove_top_margin": false,
-        "remove_bottom_margin": false,
-        "color_background_main": "#f4ecf4",
-        "section_background_gradient": "",
-        "color_text_main": "#000000"
       }
     },
     "16546982542e923b5a": {
@@ -404,9 +404,9 @@
   "order": [
     "1653646142d6a7c886",
     "16541619272fee0e4e",
+    "1657094048f07fb2a2",
     "featured-collection",
     "1654161920efe5f084",
-    "1657094048f07fb2a2",
     "16546982542e923b5a",
     "16553621956de397b6",
     "1655112847aaa4cc50"
