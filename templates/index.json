@@ -26,24 +26,10 @@
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
           }
-        },
-        "1653646142fd3f3126-1": {
-          "type": "image",
-          "settings": {
-            "caption": "Include some awesome images",
-            "title": "Write about yourself",
-            "link": "",
-            "open_in_new_window": false,
-            "button_label": "Learn more",
-            "color_background_main": "rgba(0,0,0,0)",
-            "color_text_main": "rgba(0,0,0,0)",
-            "seo_h_tag": "h3"
-          }
         }
       },
       "block_order": [
-        "1653646142fd3f3126-0",
-        "1653646142fd3f3126-1"
+        "1653646142fd3f3126-0"
       ],
       "settings": {
         "desktop_height": "80vh",
