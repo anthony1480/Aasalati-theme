@@ -183,6 +183,9 @@
     "product_icon_1_label": "",
     "cart_action": "no-overlay",
     "cart_free_shipping": false,
+    "social_facebook": "https://www.facebook.com/share/17eBtWfEJA/",
+    "social_instagram": "https://www.instagram.com/assalati_?igsh=em55MzNxOXhydTQx",
+    "social_tiktok": "https://www.tiktok.com/@assalati_?_r=1&_t=ZS-91WmqGsRcrH",
     "sections": {
       "popups": {
         "type": "popups",
