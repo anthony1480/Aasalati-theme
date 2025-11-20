@@ -27,6 +27,21 @@
             "seo_h_tag": "h3"
           }
         },
+        "image_qe9fVx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC_2003.jpg",
+            "mobile_image": "shopify://shop_images/DSC_2003.jpg",
+            "caption": "",
+            "title": "",
+            "link": "shopify://collections",
+            "open_in_new_window": false,
+            "button_label": "Show more",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
         "1653646142fd3f3126-0": {
           "type": "image",
           "settings": {
@@ -45,6 +60,7 @@
       },
       "block_order": [
         "image_aTRLp3",
+        "image_qe9fVx",
         "1653646142fd3f3126-0"
       ],
       "settings": {
