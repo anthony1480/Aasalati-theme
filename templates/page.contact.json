@@ -1,1 +1,63 @@
-{"sections":{"main":{"type":"main-page","settings":{}},"contact-form":{"type":"contact-form","settings":{}}},"order":["main","contact-form"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "center": false
+      }
+    },
+    "contact-form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Drop us a line",
+        "show_phone": false,
+        "show_subject": false,
+        "seo_h_tag": "h2"
+      }
+    },
+    "stores_map_P3Ae3k": {
+      "type": "stores-map",
+      "blocks": {
+        "store_AfbKjD": {
+          "type": "store",
+          "settings": {
+            "store_name": "Our Store",
+            "store_address": "<p>Abdallah el machnouk</p><p> </p><p><strong>Store Hours<br/></strong>Sun: Closed<br/>Mon-Sat: 9:30 - 18:00</p>",
+            "image_aspect_ratio": "1.33333",
+            "store_map_latitude": "",
+            "store_map_longitude": "",
+            "store_map_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "store_AfbKjD"
+      ],
+      "name": "t:sections.local-extra-words.sections.stores-map.name",
+      "settings": {
+        "heading": "Find Us",
+        "subheading": "Check our stores on a map",
+        "section_heading_layout": "section-heading--left",
+        "map_enable": false,
+        "map_zoom": 16,
+        "map_style": "standard",
+        "map_image": "shopify://shop_images/aasalati_shop.jpg",
+        "seo_h_tag": "h2"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact-form",
+    "stores_map_P3Ae3k"
+  ]
+}
