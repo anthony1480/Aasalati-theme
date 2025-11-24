@@ -12,6 +12,21 @@
     "1653646142d6a7c886": {
       "type": "slideshow",
       "blocks": {
+        "image_73ETH8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Aasalati_packaging.jpg",
+            "mobile_image": "shopify://shop_images/Aasalati_packaging.jpg",
+            "caption": "",
+            "title": "",
+            "link": "shopify://collections/all",
+            "open_in_new_window": false,
+            "button_label": "Learn more",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)",
+            "seo_h_tag": "h3"
+          }
+        },
         "image_aTRLp3": {
           "type": "image",
           "settings": {
@@ -44,6 +59,7 @@
         },
         "1653646142fd3f3126-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DSC_1992.jpg",
             "mobile_image": "shopify://shop_images/DSC_1992.jpg",
@@ -59,6 +75,7 @@
         }
       },
       "block_order": [
+        "image_73ETH8",
         "image_aTRLp3",
         "image_qe9fVx",
         "1653646142fd3f3126-0"
