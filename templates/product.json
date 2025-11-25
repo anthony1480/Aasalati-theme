@@ -166,7 +166,7 @@
           "type": "text",
           "settings": {
             "title": "Shipping details",
-            "subtitle": "هل عسل عسالتي طبيعي 100%؟",
+            "subtitle": "هل عسل عسلاتي طبيعي 100%؟",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
@@ -206,7 +206,7 @@
       ],
       "name": "t:sections.local-extra-words.sections.content-toggles.name",
       "settings": {
-        "heading": "Frequently asked question",
+        "heading": "الأسئلة المتكررة",
         "subheading": "",
         "section_heading_layout": "section-heading--left",
         "open_first": false,
