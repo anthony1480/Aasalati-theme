@@ -21,7 +21,7 @@
             "title": "",
             "link": "shopify://collections/all",
             "open_in_new_window": false,
-            "button_label": "Learn more",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
@@ -36,7 +36,7 @@
             "title": "",
             "link": "shopify://collections",
             "open_in_new_window": false,
-            "button_label": "Show more",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
@@ -51,7 +51,7 @@
             "title": "",
             "link": "shopify://collections",
             "open_in_new_window": false,
-            "button_label": "Show more",
+            "button_label": "",
             "color_background_main": "rgba(0,0,0,0)",
             "color_text_main": "rgba(0,0,0,0)",
             "seo_h_tag": "h3"
