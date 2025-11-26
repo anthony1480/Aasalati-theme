@@ -47,7 +47,7 @@
         "show_header_actions": true,
         "show_locale_selector": true,
         "show_country_selector": true,
-        "show_social_icons": true
+        "show_social_icons": false
       }
     }
   },
