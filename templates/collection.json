@@ -47,7 +47,7 @@
         "products_number": 24,
         "enable_filtering": true,
         "enable_sorting": true,
-        "image_filter_layout": "twocolumns"
+        "image_filter_layout": "onecolumn"
       }
     },
     "marquee_RayTVi": {
